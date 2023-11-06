@@ -5,7 +5,7 @@ df = pd.read_csv('C:/Users/Shree/Downloads/export.csv')
 # print(df.to_string())
 
 mydataset = {'cars' : ['BMW', 'Benz', 'volvo'],
-             'passings' : [3, 6, 8]}
+             'passings' : [3, 6, 7]}
 
 df1 = pd.DataFrame(mydataset)
 # print(df1)
